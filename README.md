@@ -1,2 +1,2 @@
-# TourismMgmtSystem
+# HospitalityMngtSystem
 Team4
